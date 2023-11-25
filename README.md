@@ -9,7 +9,7 @@ Look the Astronomy Picture of the Day on your iPhone with the possibility of vi
    1. Daily version  from [here](https://github.com/ElCoti/Nasa-Apod-Widget/blob/main/ApodDailyVersion.js).
    2. Random version  from [here](https://github.com/ElCoti/Nasa-Apod-Widget/blob/main/ApodRandomVersion.js).
 4. Once downloaded, click the Share button.
-5. Click on the Scriptable icone.
+5. Click on the Scriptable icon.
 6. Click on "Add to My Scripts".
 7. Set API_TOKEN at the top of the script
    1. Request and generate your API Key from [Nasa Open APIs](https://api.nasa.gov/).
