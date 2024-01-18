@@ -19,7 +19,7 @@ Look the Astronomy Picture of the Day on your iPhone with the possibility of vi
 
 # Add widget to the home-screen
 1. Add a new Scriptable widget to the home-screen.
-2. In "Script" select Countdown.
+2. In "Script" select NASA Apod.
 
 # Requirements
 - Scriptable
